@@ -1,0 +1,7 @@
+Encontre um dispositivo para aferir temperatura
+Obtenha um termômetro funcional
+Registre a temperatura em graus Celsius
+Garanta que o termômetro esteja calibrado e exibindo o valor correto, em Celsius
+Multiplique o valor em Celsius por 1,8
+Some 32 ao resultado obtido
+Veja o valor convertido
