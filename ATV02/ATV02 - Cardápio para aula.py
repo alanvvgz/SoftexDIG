@@ -9,7 +9,7 @@ total = 0
 print("=== BEM-VINDO AO RESTAURANTE SANTA CRUZ FC ===")
 
 while True:
-    print("\n--- CARDÁPIO ---")
+    print("--- CARDÁPIO ---")
     for codigo, (item, preco) in cardapio.items():
         print(f"{codigo} - {item} - R${preco:,.2f}".replace(".", ","))
 
@@ -32,8 +32,9 @@ while True:
     else:
         print("Opção inválida!")
 
-print("\n=== RESUMO DO PEDIDO ===")
+print("=== RESUMO DO PEDIDO ===")
 print(f"Total a pagar: R${total:,.2f}".replace(".", ","))
 print("Obrigado pela preferência! : )")
+
 
 
