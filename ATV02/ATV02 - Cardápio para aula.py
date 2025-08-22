@@ -6,7 +6,7 @@ cardapio = {
 
 total = 0
 
-print("=== BEM-VINDO AO RESTAURANTE SANTA CRUZ ===")
+print("=== BEM-VINDO AO RESTAURANTE SANTA CRUZ FC ===")
 
 while True:
     print("\n--- CARDÁPIO ---")
@@ -35,3 +35,4 @@ while True:
 print("\n=== RESUMO DO PEDIDO ===")
 print(f"Total a pagar: R${total:,.2f}".replace(".", ","))
 print("Obrigado pela preferência! : )")
+
