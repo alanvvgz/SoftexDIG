@@ -1,5 +1,5 @@
 cardapio = {
-    1: ("Hambúrguer", 25.00),
+    1: ("Hambúrguer Galhardo", 25.00),
     2: ("Batata Frita", 15.00),
     3: ("Refrigerante", 8.00),
 }
@@ -35,4 +35,5 @@ while True:
 print("\n=== RESUMO DO PEDIDO ===")
 print(f"Total a pagar: R${total:,.2f}".replace(".", ","))
 print("Obrigado pela preferência! : )")
+
 
