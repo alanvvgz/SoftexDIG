@@ -30,4 +30,5 @@ Git e GitHub para versionamento de código
 📅 Andamento
 
 ✅ As aulas, atividades e exercícios serão adicionados conforme meu progresso.
+
 ✅ Estruturado por data e tipo de conteúdo para manter tudo organizado.
