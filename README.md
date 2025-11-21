@@ -7,6 +7,7 @@ Aqui você encontra as aulas, exercícios e materiais de mentoria do curso Futur
 Alan Vitor Vitorino Galdino
 
 🎯 Finalidade
+
 Este repositório tem como propósito:
 
 Registrar e organizar todo o conteúdo estudado.
@@ -17,6 +18,7 @@ Facilitar o acesso, revisão e consulta de códigos e práticas.
 
 🛠️ Tecnologias Utilizadas
 
+
 Python 3 / Flask
 
 VS Code como ambiente de desenvolvimento
@@ -24,5 +26,6 @@ VS Code como ambiente de desenvolvimento
 Git e GitHub para versionamento de código
 
 📅 Andamento
+
 ✅ As aulas, atividades e exercícios serão adicionados conforme meu progresso.
 ✅ Estruturado por data e tipo de conteúdo para manter tudo organizado.
