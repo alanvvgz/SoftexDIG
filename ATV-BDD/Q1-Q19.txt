@@ -230,4 +230,5 @@ produtos
 vendas
     num_identificador (Chave Primária)
     data_venda
-    cod_cliente (chave estrangeira)
+
+    cod_cliente (chave estrangeira).
