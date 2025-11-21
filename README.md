@@ -3,6 +3,7 @@ Bem-vindo ao meu repositório!
 Aqui você encontra as aulas, exercícios e materiais de mentoria do curso Futuro Digital – Softex, com foco no aprendizado de Python.
 
 👤 Autor
+
 Alan Vitor Vitorino Galdino
 
 🎯 Finalidade
